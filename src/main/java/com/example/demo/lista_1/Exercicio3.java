@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.lista_1;
 
 import java.util.Scanner;
 
