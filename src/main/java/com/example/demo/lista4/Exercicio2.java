@@ -33,5 +33,5 @@ public class Exercicio2 {
         TimeUnit.SECONDS.sleep(3);
         System.out.println("Maior valor de venda: " + valorMaior);
         System.out.println("Menor valor de venda: " + valorMenor);
-    }
+}
 }
