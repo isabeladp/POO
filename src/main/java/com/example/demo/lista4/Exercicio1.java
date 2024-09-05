@@ -24,4 +24,4 @@ public class Exercicio1 {
 
             scanner.close();
         }
-    }
+}
