@@ -28,4 +28,4 @@ public class Exercicio4 {
         }while(palpite != numAdivinhacao);
     }
 } 
-}
+
