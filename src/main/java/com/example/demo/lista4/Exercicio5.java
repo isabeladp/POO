@@ -13,7 +13,7 @@ public class Exercicio5 {
 
     
         while (opcao != 3) {
-            // Exibindo o menu
+            
             System.out.println("\n****** Lista de Compras ******");
             System.out.println("1. Inserir itens");
             System.out.println("2. Ver a lista de compras");
